@@ -1,0 +1,70 @@
+.front{
+    background-image:url(photographer-men-action-with-camera-watch-black-background_42510-18.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img-thumbnail{
+    height: 400px;
+    width: 500px;
+}
+.content{
+    margin-top: 30px;
+}
+.skill-bar{
+    justify-content: space-between;
+}
+.im1{
+    height: 100vh;
+    border-radius: 100px;
+}
+.text{
+    margin-top: 20px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 30px;
+}
+.smimg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.small-image .img-thumbnail{
+    width:350px;
+    height: 350px;
+    margin-top: 30px;
+    border-radius: 100px;
+}
+.nav-link:hover{
+color: orangered;
+}
+.skill-bar{
+    background-color: rgb(235, 235, 235);
+    height: 10px;
+    border-radius: 100px;
+}
+.skill-amount{
+    height: 100%;
+    width: 95%;
+    border-radius: 100px;
+}
+.skill-amount1{
+    height: 100%;
+    width: 90%;
+    border-radius: 100px;
+}
+.skill-amount2{
+    height: 100%;
+    width: 90%;
+    border-radius: 100px;
+}
+.skill-amount3{
+    height: 100%;
+    width: 80%;
+    border-radius: 100px;
+}
+.skill-amount4{
+    height: 100%;
+    width: 75%;
+    border-radius: 100px;
+}
